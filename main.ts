@@ -1,8 +1,8 @@
-
+/*
  
 //TASK 1: 
-// // completed
-// //TASK 2:
+// completed
+//TASK 2:
  let Name="Haider"
  console.log( "hello      " , Name +",",`"would you like to learn some python today? "`);
  //task 3:
@@ -135,12 +135,12 @@ Guest.map((items)=> console.log(`Dear ${items} ,you are invited on my birthday p
    while (Guest.length > 2 ) {
        const removedGuest = Guest.pop();
         console.log(`Sorry , ${removedGuest} you are no longer invited to the dinner`);
-   }
+			}
  //messaging the existing persons:
   Guest.forEach((Guest)=> {
-  console.log(`Dear ${Guest}, you are still invited to the dinner.`) )
-
-  }
+  console.log(`Dear ${Guest}, you are still invited to the dinner.`) );
+		}
+*/
 
 
 
