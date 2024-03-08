@@ -4,7 +4,7 @@
 // completed
 //TASK 2:
  let Name="Haider"
- console.log( "hello      " , Name +",",`"would you like to learn some python today? "`);
+ console.log( "hello" , Name +",",`"would you like to learn some python today? "`);
  //task 3:
  let personName:string=" muneeb";
  console.log("uppercase:", personName.toUpperCase() );
@@ -112,7 +112,7 @@ console.log(`"my favorite number is ${favoriteName}"`);
  Guest [Guest.indexOf(absent)] = newGuest;
  console.log(Guest)
 
-  Guest.map((items) => 
+  Guest.map((items) => )
   console.log(`Dear ${items}, I found a bigger dinning table so I am inviting more people ` );
  // task 16 part 2 beginning : 
   let Guestbeg :string="Mubeen"
@@ -211,7 +211,7 @@ console.log("Back to Original Order:", placesToVisit);
   console.log(4<=1);
 
   console.log("is 92!=91? predict true");
-  console.log(92!=91);
+  console.log(92 != 91);
 
 //task 24:
 let name_1 : string="Muneeb"
@@ -559,5 +559,6 @@ function createCar(manufacture: string, model: string, optional: Record<string ,
 
 console.log(favorite_car);
 
-// ALL 45 TASKS ARE COMPLETED!
- 
+
+// all tasks are completed:
+///////////////////////////alhumduliallh !
