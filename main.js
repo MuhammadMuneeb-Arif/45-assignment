@@ -241,11 +241,8 @@
     if (alien_color = "red") {
         console.log("player earned 15 points");
     }
-    task;
-    27;
-    method;
-    no;
-    2;
+    //task 27 method no 2:
+        
     let alien_color = "red";
     if (alien_color == "red") {
         console.log("player just earned 15 points.");
